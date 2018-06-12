@@ -5,6 +5,8 @@ import java.util.Random;
 public class Hand implements PorkerInterface{
 
 
+
+	//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 	//手札を格納する配列
 	protected ArrayList<Integer> playerHand = new ArrayList<Integer>();
 	//役番号を格納する変数
