@@ -8,7 +8,7 @@ public class Hand implements PorkerInterface{
 	//手札を格納する配列
 	protected ArrayList<Integer> playerHand = new ArrayList<Integer>();
 	//役番号を格納する変数
-	int rolenum=20;
+	int rolenum=0;
 	//手札の数値を格納する配列
 	int[] numshand=new int[5];
 	int Hcount=0;
